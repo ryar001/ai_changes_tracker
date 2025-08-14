@@ -1,7 +1,8 @@
 # AI Changes Tracker Integration Guide
 
 This guide explains how to integrate the AI Changes Tracker into your code assistant to automate change logging.
-
+copy AI_TRACKER_GENIE.md to same directory as GEMINI.md
+copy the GEMINI.md text into your assistant context file
 ## 1. Integration with Your Code Assistant
 
 To enable the tracker, you need to include its core logic in your assistant's context. Add the following line to your main context file (e.g., `GEMINI.md`):
